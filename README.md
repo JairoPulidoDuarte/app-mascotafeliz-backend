@@ -5,12 +5,11 @@ Nombre del Equipo: Los Creativos
 Integrantes y Roles:
 
 
-```ALEJANDRA PARADA: Diseñadora de Software
-```
-```MARÍA PAULA PARDO OCAMPO: Administradora de la configuración
-```DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
-```CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
-```JOHN JAIRO PULIDO DUARTE: Líder del Equipo
+ALEJANDRA PARADA: Diseñadora de Software
+MARÍA PAULA PARDO OCAMPO: Administradora de la configuración
+DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
+CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
+JOHN JAIRO PULIDO DUARTE: Líder del Equipo
 ```
 
 ## mascotafeliz
