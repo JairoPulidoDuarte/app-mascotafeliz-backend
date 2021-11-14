@@ -1,3 +1,16 @@
+# Número de Grupo: 15
+
+Nombre del Equipo:
+Los Creativos
+
+Integrantes y Roles:
+
+ALEJANDRA PARADA: Diseñadora de Software
+MARÍA PAULA PARDO OCAMPO: Administradora de la configuración
+DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
+CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
+JOHN JAIRO PULIDO DUARTE: Líder del Equipo
+
 # mascotafeliz
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
