@@ -9,13 +9,10 @@ Integrantes y Roles:
 - MARÍA PAULA PARDO OCAMPO: Administradora de la configuración
 
 - DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
-```
 
-CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
-```
+- CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
 
-JOHN JAIRO PULIDO DUARTE: Líder del Equipo
-```
+- JOHN JAIRO PULIDO DUARTE: Líder del Equipo
 
 ## mascotafeliz
 
