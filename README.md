@@ -4,13 +4,11 @@ Nombre del Equipo: Los Creativos
 
 Integrantes y Roles:
 
-ALEJANDRA PARADA: Diseñadora de Software
-```
+- ALEJANDRA PARADA: Diseñadora de Software
 
-MARÍA PAULA PARDO OCAMPO: Administradora de la configuración
-```
+- MARÍA PAULA PARDO OCAMPO: Administradora de la configuración
 
-DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
+- DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
 ```
 
 CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
