@@ -1,7 +1,6 @@
 ## Número de Grupo: 15
 
-Nombre del Equipo:
-```Los Creativos
+Nombre del Equipo: Los Creativos
 
 Integrantes y Roles:
 
