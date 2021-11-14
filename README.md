@@ -10,6 +10,7 @@ Integrantes y Roles:
 ```DANIA MILDRE VALENCIA MUÑOZ: Diseñadora de Interfaz de Usuario (UI)
 ```CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
 ```JOHN JAIRO PULIDO DUARTE: Líder del Equipo
+```
 
 ## mascotafeliz
 
