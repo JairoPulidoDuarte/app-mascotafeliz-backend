@@ -1,4 +1,4 @@
-# Número de Grupo: 15
+## Número de Grupo: 15
 
 Nombre del Equipo:
 ```Los Creativos
@@ -11,7 +11,7 @@ Integrantes y Roles:
 ```CAMILO JOSÉ GONZÁLEZ GOMÉZ: Tester
 ```JOHN JAIRO PULIDO DUARTE: Líder del Equipo
 
-# mascotafeliz
+## mascotafeliz
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
