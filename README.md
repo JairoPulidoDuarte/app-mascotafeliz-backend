@@ -19,6 +19,28 @@ Integrantes y Roles:
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
+La Empresa "Mascota Feliz" es un emprendimiento cuya finalidad es prestar el servicio de ayuda a los usuarios que tienen 
+un animal como mascota. Basicamente cuenta con un grupo de profesionales especializados, que están dispuestos a prestar sus
+conocimientos, para que el dueño de mascota sienta satisfacción cada vez que lo requiera. Igualmente ofrece facilidades en la 
+forma de pago, así como atención las 24 horas del día.
+
+## Misión 
+
+
+
+## Visión
+
+En el año 2025, la empresa "Mascota Feliz", pretende ser una de las 50 organizaciones de ayuda animal más prestigiosas de Colombia.
+
+## Los servicios que cuenta la Empresa "Mascota Feliz"
+
+- Imagenología
+- Hospitalización
+- Cirugía
+- Peluquería
+- Guardería
+- Paseo de las mascota
+
 ## Install dependencies
 
 By default, dependencies were installed when this application was generated.
